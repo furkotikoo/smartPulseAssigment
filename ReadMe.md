@@ -1,6 +1,6 @@
 # smartPulse Assigment
 
-> repostroy'i indirdikten sonra terminali açarak `npm install` komutunu çalıştırın. Böylece proje için gerekli modüller indirimiş olacak.
+> repostroy'i indirdikten sonra terminali açarak `npm install` komutunu çalıştırın. Böylece proje için gerekli modüller indirilmiş olacak.
 
 
 ## Bu projede iki end point oluştruldu
